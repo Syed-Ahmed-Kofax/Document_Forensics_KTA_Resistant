@@ -1,4 +1,11 @@
 # Document_Forensics_KTA_Resistant
+INFO:
+
+Forgery Detection system protects business processes and automated workflows from forgery-based frauds. The solution inspects financial documents, bank statements, and other documents submitted to our customers for signs of manipulation and raises an alert when a modification, file corruption, inconsistency with past behavior, or other anomaly is found by the AI-based system.
+The KTA connector built with Resistant AI provides straight-through processing of documents and images via the Resistant REST APIs. 
+
+STEPS:
+
 Step 1 : Download the zipped Packaged file 
 
 Step 2 : Import it into KTA using the Import wizard along with all the artifacts included in the package
